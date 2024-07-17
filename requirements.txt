@@ -1,6 +1,6 @@
 streamlit
-cv2
-numpy 
+opencv-python
+numpy
 imutils
 easyocr
-PIL  
+Pillow
